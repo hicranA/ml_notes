@@ -4,4 +4,4 @@ I like to teach myself. The way that I usually learn is by researching and expla
 Sources:
 "MACHINE LEARNING An Algorithmic Perspective Second Edition- Stephen Marsland (Module I)
 
-[Link text Here](https://link-url-here.org)
+[Module 1 notes](https://github.com/hicranA/ml_notes/blob/main/MachineLearningSelfTeach.ipynb)
